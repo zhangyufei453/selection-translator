@@ -1,0 +1,26 @@
+{
+  "auto_select": true,
+  "double_click": true,
+  "hotkey": "<alt>+q",
+  "direction": "auto",
+  "engines": [
+    "tencent",
+    "lingva",
+    "bing",
+    "mymemory"
+  ],
+  "max_chars": 3000,
+  "popup_width": 440,
+  "font_size": 11,
+  "ignore_apps": [
+    "windowsterminal.exe",
+    "cmd.exe",
+    "powershell.exe",
+    "pwsh.exe",
+    "conhost.exe",
+    "openconsole.exe",
+    "mintty.exe",
+    "putty.exe",
+    "code.exe"
+  ]
+}
